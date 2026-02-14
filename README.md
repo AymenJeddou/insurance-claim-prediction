@@ -62,4 +62,4 @@ Then open `index.html` in your web browser to access the web interface.
 
 ## Author Notes
 
-This project combines data science (Python/Jupyter) with web development (HTML/CSS/JavaScript) for a complete machine learning application.
+This project combines data science (Python/Jupyter) with web development (HTML/CSS/JavaScript) for a complete machine learning application .
